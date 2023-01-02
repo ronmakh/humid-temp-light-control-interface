@@ -7,6 +7,6 @@
 
 
 ## Steps to Run
-
+1. Run `Arduino and Visual Basic Part 2.exe`
 
 ## Project History
