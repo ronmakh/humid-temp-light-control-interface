@@ -1,0 +1,10 @@
+D:\_VB_Projects\Arduino and Visual Basic Part 2\Arduino and Visual Basic Part 2\bin\Debug\Arduino and Visual Basic Part 2.exe.config
+D:\_VB_Projects\Arduino and Visual Basic Part 2\Arduino and Visual Basic Part 2\bin\Debug\Arduino and Visual Basic Part 2.exe
+D:\_VB_Projects\Arduino and Visual Basic Part 2\Arduino and Visual Basic Part 2\bin\Debug\Arduino and Visual Basic Part 2.pdb
+D:\_VB_Projects\Arduino and Visual Basic Part 2\Arduino and Visual Basic Part 2\bin\Debug\Arduino and Visual Basic Part 2.xml
+D:\_VB_Projects\Arduino and Visual Basic Part 2\Arduino and Visual Basic Part 2\obj\Debug\Arduino_and_Visual_Basic_Part_2.Form1.resources
+D:\_VB_Projects\Arduino and Visual Basic Part 2\Arduino and Visual Basic Part 2\obj\Debug\Arduino_and_Visual_Basic_Part_2.Resources.resources
+D:\_VB_Projects\Arduino and Visual Basic Part 2\Arduino and Visual Basic Part 2\obj\Debug\Arduino and Visual Basic Part 2.vbproj.GenerateResource.Cache
+D:\_VB_Projects\Arduino and Visual Basic Part 2\Arduino and Visual Basic Part 2\obj\Debug\Arduino and Visual Basic Part 2.exe
+D:\_VB_Projects\Arduino and Visual Basic Part 2\Arduino and Visual Basic Part 2\obj\Debug\Arduino and Visual Basic Part 2.xml
+D:\_VB_Projects\Arduino and Visual Basic Part 2\Arduino and Visual Basic Part 2\obj\Debug\Arduino and Visual Basic Part 2.pdb
